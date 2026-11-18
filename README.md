@@ -15,33 +15,35 @@ Here, I upload C programs topic-wise, starting from basic programs and gradually
 - 📁 "03-Loops" (./03-Loops) — Loop-based programs
 - 📁 "04-Patterns" (./04-Patterns) — Pattern printing programs
 
-📝 Programs Covered
 
-01 — Basics
 
-- Hello World
-- Addition of two numbers
-- Area and perimeter of rectangle
-- Area of triangle
-- Average of three numbers
-- Simple Interest
-- Swap two integers
+## 📝 Programs Covered
 
-02 — Conditional Statements
+### 01 — Basics
 
-- Odd or Even
-- Eligible to Vote
-- Leap Year
-- Maximum of Two Numbers
-- Maximum of Three Numbers
-- Grade of Students
-- Quadratic Equation Roots
+- [Hello World](./01-Basics/hello.c)
+- [Addition of Two Numbers](./01-Basics/add%20two%20numbers.c)
+- [Area and Perimeter of Rectangle](./01-Basics/Area%20and%20Perimeter%20of%20Rectangle.c)
+- [Area of Triangle](./01-Basics/Area%20of%20triangle.c)
+- [Average of Three Numbers](./01-Basics/Average%20of%20three%20numbers.c)
+- [Simple Interest](./01-Basics/Simple%20intrest.c)
+- [Swap Two Integers](./01-Basics/Swap%20two%20integers.c)
 
-03 — Loops
+### 02 — Conditional Statements
+
+- [Eligible to Vote](./02-Conditional%20Statement/eligible_to_vote.c)
+- [Grade of Students](./02-Conditional%20Statement/grade_of_students.c)
+- [Leap Year](./02-Conditional%20Statement/leap_year.c)
+- [Maximum of Two Numbers](./02-Conditional%20Statement/maximum_of_2numbers.c)
+- [Maximum of Three Numbers](./02-Conditional%20Statement/maximum_of_3numbers.c)
+- [Odd or Even](./02-Conditional%20Statement/odd_even.c)
+- [Quadratic Equation Roots](./02-Conditional%20Statement/quadratic_equation_roots.c)
+
+### 03 — Loops
 
 Coming soon...
 
-04 — Patterns
+### 04 — Patterns
 
 Coming soon...
 
