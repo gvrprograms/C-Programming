@@ -12,7 +12,7 @@ int main()
     for (i=1;i<=n-2;i++)
     {
         c=a+b;
-        printf("Fibonacci series is %d\n",c);
+        printf("%d\n",c);
         a=b;
         b=c;
     }
