@@ -19,14 +19,14 @@ Here, I upload C programs topic-wise, starting from basic programs and gradually
 
 ## 📝 Programs Covered
 
-### 01 — Basics
+### 01— Basics
 
 - [Hello World](./01-Basics/hello.c)
 - [Addition of Two Numbers](./01-Basics/add%20two%20numbers.c)
 - [Area and Perimeter of Rectangle](./01-Basics/Area%20and%20Perimeter%20of%20Rectangle.c)
 - [Area of Triangle](./01-Basics/Area%20of%20triangle.c)
 - [Average of Three Numbers](./01-Basics/Average%20of%20three%20numbers.c)
-- [Simple Interest](./01-Basics/Simple%20intrest.c)
+- [Simple Interest](./01-Basics/Simple%20interest.c)
 - [Swap Two Integers](./01-Basics/Swap%20two%20integers.c)
 
 ### 02 — Conditional Statements
