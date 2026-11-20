@@ -41,7 +41,28 @@ Here, I upload C programs topic-wise, starting from basic programs and gradually
 
 ### 03 — Loops
 
-Coming soon...
+### 03 — Loops
+
+- [1!](./03-Loops/1%21.c)
+- [Alphabet A to Z](./03-Loops/alphabet_a_z.c)
+- [Armstrong Number](./03-Loops/armstrong_.c)
+- [Binary to Decimal](./03-Loops/binary_to_decimal.c)
+- [Count Digits](./03-Loops/count_digit.c)
+- [Decimal to Binary](./03-Loops/decimal_to_binary.c)
+- [Factorial](./03-Loops/factorial.c)
+- [Fibonacci Series](./03-Loops/fibonacci_series.c)
+- [GCD of Two Numbers](./03-Loops/gcd_2_number.c)
+- [Krishnamurthy Number](./03-Loops/krishnamurthy.c)
+- [Palindrome Number](./03-Loops/palindrome.c)
+- [Prime Numbers from 1 to 100](./03-Loops/primenumber_1_100.c)
+- [Reverse Number](./03-Loops/reverse_number.c)
+- [Natural Numbers from 1 to N](./03-Loops/series_1to_n.c)
+- [Even Number Series](./03-Loops/series_even.c)
+- [Series N to 1](./03-Loops/series_onto_1.c)
+- [Odd Number Series](./03-Loops/series_odd.c)
+- [Summation of Series](./03-Loops/summation_of_series.c)
+- [Sum of Digits](./03-Loops/sumof_digit_number.c)
+
 
 ### 04 — Patterns
 
