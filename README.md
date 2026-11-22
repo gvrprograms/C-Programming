@@ -41,8 +41,6 @@ Here, I upload C programs topic-wise, starting from basic programs and gradually
 
 ### 03 — Loops
 
-### 03 — Loops
-
 - [1!](./03-Loops/1%21.c)
 - [Alphabet A to Z](./03-Loops/alphabet_a_z.c)
 - [Armstrong Number](./03-Loops/armstrong_.c)
@@ -75,21 +73,83 @@ Coming soon...
 - GCC Compiler
 - Git & GitHub
 
-▶️ How to Run
+## How to Compile and Run
 
-1. Download or clone this repository.
-2. Open the ".c" file in Visual Studio Code.
-3. Compile the program using GCC.
-4. Run the compiled program.
+### Requirements
+Before running the programs, make sure you have:
 
-🎯 My Learning Goals
+- A computer with Windows OS
+- Visual Studio Code (VS Code)
+- GCC Compiler (MinGW)
+- Basic knowledge of C programming
 
-- Learn C programming fundamentals.
-- Improve logical thinking and problem-solving.
-- Practice programming regularly.
-- Maintain and document my coding journey on GitHub.
+### Step 1: Clone the Repository
+
+```bash
+git clone YOUR_REPOSITORY_URL
+```
+
+### Step 2: Open the Project
+
+Open the downloaded `C-Programming` folder in VS Code.
+
+### Step 3: Compile a C Program
+
+Open the terminal in VS Code and use:
+
+```bash
+gcc filename.c -o filename.exe
+```
+
+### Step 4: Run the Program
+
+```bash
+.\filename.exe
+```
+
+**Example:**
+
+```bash
+gcc hello.c -o hello.exe
+.\hello.exe
+```
+## Learning Goals
+
+The main objectives of this repository are:
+
+- To understand the fundamentals of C programming.
+- To improve problem-solving and logical thinking skills.
+- To practice conditional statements and loops.
+- To learn arrays, strings, functions, and pointers.
+- To understand different searching and sorting techniques.
+- To develop clean, readable, and efficient C programs.
+- To build a strong foundation for Data Structures and Algorithms (DSA).
+-
 
 ---
+## Contributing
+
+Contributions are always welcome!
+
+If you want to contribute to this repository:
+
+1. Fork this repository.
+2. Create a new branch.
+3. Add your C programs or improve existing ones.
+4. Commit your changes.
+5. Submit a Pull Request.
+
+Please make sure your code is properly formatted, readable, and tested before contributing.
+
+## About the Author
+
+Hi! I'm a B.Tech CSE (AI & ML) student learning C programming and improving my problem-solving skills.
+
+This repository is part of my programming learning journey, where I regularly practice and upload C programs.
+
+- **GitHub:** [Your GitHub Profile](YOUR_GITHUB_PROFILE_URL)
+- **Repository:** C-Programming
+
 
 ⭐ This repository is a record of my programming practice and learning journey. More programs will be added as I progress.
 
