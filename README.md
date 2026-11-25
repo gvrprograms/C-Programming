@@ -147,7 +147,7 @@ Hi! I'm a B.Tech CSE (AI & ML) student learning C programming and improving my p
 
 This repository is part of my programming learning journey, where I regularly practice and upload C programs.
 
-- **GitHub:** [Your GitHub Profile](YOUR_GITHUB_PROFILE_URL)
+- - **GitHub:** [gvrprograms](https://github.com/gvrprograms)
 - **Repository:** C-Programming
 
 
