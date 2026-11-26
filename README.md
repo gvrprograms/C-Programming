@@ -69,7 +69,15 @@ Here, I upload C programs topic-wise, starting from basic programs and gradually
 - [Largest Among 3 Variables](./04-Switch-Ternary/Largest_among3_variable.c)
 - [Vowel Check](./04-Switch-Ternary/Vowel_check.c)
 
+### 05. Pattern Printing
 
+- [Character Pattern](05-Pattern%20Printing/Character_pattern.c)
+- [Decreasing Star](05-Pattern%20Printing/Decreasing_star.c)
+- [Increasing Star](05-Pattern%20Printing/Increasing_star.c)
+- [Number Pattern](05-Pattern%20Printing/Number_pattern.c)
+- [Number Triangle](05-Pattern%20Printing/Number_Triangle.c)
+- [Rectangle Pattern](05-Pattern%20Printing/Rectangle_pattern.c)
+- [Square Printing](05-Pattern%20Printing/Square_printing.c)
 
 🛠️ Tools Used
 
