@@ -62,9 +62,14 @@ Here, I upload C programs topic-wise, starting from basic programs and gradually
 - [Sum of Digits](./03-Loops/sumof_digit_number.c)
 
 
-### 04 — Patterns
+## 04-Switch-Ternary
 
-Coming soon...
+- [Calculator](./04-Switch-Ternary/Calculator.c)
+- [Day Name Check](./04-Switch-Ternary/Day_name_check.c)
+- [Largest Among 3 Variables](./04-Switch-Ternary/Largest_among3_variable.c)
+- [Vowel Check](./04-Switch-Ternary/Vowel_check.c)
+
+
 
 🛠️ Tools Used
 
